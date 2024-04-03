@@ -1,0 +1,8 @@
+body_color: #101010
+header_color: #020202
+text_color: #FFFFFF
+button_color: #fcaf17
+mini_button: #606060
+button_text_color: #f6f6f6
+support_text_color: #f6f6f6
+a_= #b1b1b1
